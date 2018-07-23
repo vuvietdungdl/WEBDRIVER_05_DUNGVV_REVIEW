@@ -37,7 +37,7 @@ public class Topic_03_Browser_WebElement {
 	}
 
 	// @Test
-	public void TC_01() throws InterruptedException {
+	public void TC_01() {
 		
 	}
 
